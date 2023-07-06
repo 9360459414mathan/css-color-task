@@ -1,0 +1,350 @@
+	body{
+	background-color:gray;
+	width:60%;
+	height:auto;
+}
+
+.t1 table, th, td, tr{
+	border:2px solid white;
+	border-collapse;collapse;
+	
+	
+}
+
+
+.t2 table, th, td, tr{
+	
+	border:1px solid blue;
+	border-collapse;collapse;
+	
+}
+
+
+.t3 table, th, td, tr{
+	border:3px solid;
+	border-collapse;collapse;
+
+}
+
+
+
+
+.t4 table, th, td, tr{
+	border:3px solid;
+	border-collapse;collapse;
+
+
+
+.tu{
+	color:rgb(0, 0, 63);
+	text-align:center;
+	background-color:gray;
+	text-decoration:underline;
+	text-decoration-color:white;
+	text-shadow:4px 3px 2px;
+	padding:10px 40px 10px 40px; 
+	font-family: 'Dancing Script', cursive;
+font-family: 'Lobster', cursive;
+font-family: 'Permanent Marker', cursive;
+font-family: 'Wallpoet', cursive;
+	
+}
+
+
+.tu2{
+	text-align:center;
+	color:#f8990;
+	text-shadow:2px 3px;
+	vertical-align:2px 2px 5px ;
+	text-decoration:line-through;
+	text-decoration:underline overline;
+	text-decoration-color:black;
+	padding:30px 60px 30px 60px;
+	
+	font-family: 'Bungee Inline', cursive;
+font-family: 'Dancing Script', cursive;
+font-family: 'Lobster', cursive;
+font-family: 'Permanent Marker', cursive;
+font-family: 'Wallpoet', cursive;
+	
+	
+}
+
+.qq{
+	text-align:center;
+	text-decoration:overline;
+	text-decoration-color:white;
+	horizontal-align:3px 2px;
+	text-shadow:2px 3px 5px ;
+	padding:40px 80px 40px 80px;
+	color:rgba(0, 0, 150, 0.9);
+	font-family: 'Bungee Inline', cursive;
+font-family: 'Dancing Script', cursive;
+font-family: 'Lobster', cursive;
+font-family: 'Permanent Marker', cursive;
+font-family: 'Rubik Moonrocks', cursive;
+font-family: 'Wallpoet', cursive;
+	
+}
+
+
+.dd{
+	text-align:center;
+	text-decoration:line-through;
+	text-shadow:3px 4px;
+	padding:5px 10px 5px 10px;
+	color:hsl(52, 95%, 8%);
+	text-decoration:underline;
+	text-decoration-color:white;
+
+	font-family: 'Bungee Inline', cursive;
+font-family: 'Dancing Script', cursive;
+font-family: 'Kenia', cursive;
+font-family: 'Lobster', cursive;
+font-family: 'Permanent Marker', cursive;
+font-family: 'Rubik Moonrocks', cursive;
+font-family: 'Wallpoet', cursive;
+
+
+}
+
+
+
+
+.co1{
+	color:red;
+	
+}
+
+
+
+
+
+
+
+.co2{
+	color:blue;
+	
+}
+
+.co3{
+	color:green;
+	
+}
+
+.co4{
+	color:orange;
+	
+}
+
+.co5{
+	color:yellow;
+	
+}
+
+.co6{
+	
+color:white;
+	
+}
+
+
+
+
+
+
+
+
+.rg1{
+	color:rgb(255, 0, 0);
+
+
+}
+
+.rg2{
+	color:rgb( 0, 0, 255);
+	
+
+}
+
+.rg3{
+	color:rgb(0, 255, 0);
+}
+
+
+
+.rg4{
+	color:rgb(88, 88, 88);
+}
+
+
+.rg5{
+	color:rgb(145, 180, 230);
+}
+
+
+.rg6{
+	color:rgb(255, 255, 255);
+}
+
+
+
+
+
+
+
+
+
+.rb1{
+	color:rgba(0, 0, 255, 0.8);
+	
+
+
+}
+
+.rb2{
+	color:rgba(255, 99, 255, 0.9);
+
+	
+
+}
+
+.rb3{
+	color:rgba(255, 170, 160, 0.8);
+
+}
+
+
+
+.rb4{
+	color:rgba(255, 255, 90, 0.2);
+
+}
+
+
+.rb5{
+	color:rgba(255, 0, 0, 0.8);
+
+}
+
+
+.rb6{
+	color:rgba(0, 255, 255, 0.9);
+}
+
+
+
+
+
+
+.ao1{
+		
+	color:#ff5050;
+	
+}
+
+.ao2{
+	color:#50ff70;
+	
+}
+
+
+.ao3{
+	color:#8050ff;
+}
+
+
+.ao4{
+	color:#00f;
+}
+
+
+.ao5{
+	
+	color:#00ff00;
+	
+	
+}
+
+
+.ao6{
+	color:#6798ff;
+	
+}
+
+
+
+
+
+
+.ff1{
+	color:hsla(303, 52%, 42%, 0.7);
+}
+
+.ff2{
+	color:hsla(9, 100%, 64%, 0.8);
+}
+
+
+.ff3{
+	color:hsla(134, 56%, 16%, 0.7);
+}
+
+
+.ff4{
+	color:hsla(54, 87%, 87%, 0.7);
+}
+
+
+.ff5{
+	color:hsla(280, 4%, 11%, 0.7);
+}
+
+
+.ff6{
+	color:hsla(9, 100%, 64%, 0.4);
+}
+
+
+
+
+
+.nb1{
+	color:hsl(23, 93%, 38%);
+}
+
+
+
+.nb2{
+	color:hsl(0, 43%, 21%);
+}
+
+
+
+.nb3{
+	color:hsl(90, 56%, 40%);
+}
+
+
+
+
+.nb4{
+	color:hsl(190, 56%, 40%);
+}
+
+
+
+
+.nb5{
+	color:hsl(125, 25%, 25%);
+}
+
+
+
+.nb6{
+	color:hsl(160, 60%, 49%);
+}
+
+
+
+
